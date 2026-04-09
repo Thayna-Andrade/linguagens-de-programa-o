@@ -25,7 +25,7 @@ Este repositório contém todas as minhas anotações, resumos e atividades dese
     |   `-- questoes_e_respostas.pdf
     `-- lista_02/
         `-- questoes_e_respostas.pdf
-
+```
 ## 🗂️ Descrição das Pastas
 
 ### `livro/`
