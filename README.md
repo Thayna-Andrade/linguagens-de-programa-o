@@ -8,24 +8,23 @@ Este repositório contém todas as minhas anotações, resumos e atividades dese
 
 ## 📁 Estrutura do Repositório
 
-Estrutura do Repositório
-
-/
-├── livro/
-│   ├── capítulo_01_preliminares/
-│   │   └── resumo_e_atividades.pdf
-│   ├── capítulo_05_nomes_vinculacoes_escopo/
-│   │   └── resumo_e_atividades.pdf
-│   ├── capítulo_06_tipos_de_dados/
-│   │   └── resumo_e_atividades.pdf
-│   ├── capítulo_07_expressoes_atribuicao/
-│   │   └── resumo_e_atividades.pdf
-│   └── ...
-└── listas_do_professor/
-    ├── lista_01/
-    │   └── questoes_e_respostas.pdf
-    └── lista_02/
-        └── questoes_e_respostas.pdf
+```text
+.
+|-- livro/
+|   |-- capítulo_01_preliminares/
+|   |   |-- resumo_e_atividades.pdf
+|   |-- capítulo_05_nomes_vinculacoes_escopo/
+|   |   |-- resumo_e_atividades.pdf
+|   |-- capítulo_06_tipos_de_dados/
+|   |   |-- resumo_e_atividades.pdf
+|   |-- capítulo_07_expressoes_atribuicao/
+|   |   |-- resumo_e_atividades.pdf
+|   `-- ...
+`-- listas_do_professor/
+    |-- lista_01/
+    |   `-- questoes_e_respostas.pdf
+    `-- lista_02/
+        `-- questoes_e_respostas.pdf
 
 ## 🗂️ Descrição das Pastas
 
@@ -62,7 +61,7 @@ Cada pasta de lista possui um arquivo `questoes_e_respostas.pdf` que inclui:
 
 3.Abra os arquivos .pdf para ler o conteúdo.
 
-##📬 Contato
+## 📬 Contato
 
 Em caso de dúvidas ou sugestões, entre em contato:
 
